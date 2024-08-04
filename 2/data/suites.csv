@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Sun Aug 04 22:14:05 GMT 2024","Sun Aug 04 22:14:05 GMT 2024","0","","apiTest","","","","test_a2",""
+"passed","Sun Aug 04 22:14:04 GMT 2024","Sun Aug 04 22:14:05 GMT 2024","381","","apiTest","","","","test_user_operations",""
+"skipped","Sun Aug 04 22:14:05 GMT 2024","Sun Aug 04 22:14:05 GMT 2024","0","","apiTest","","","","test_a",""
+"skipped","Sun Aug 04 22:14:05 GMT 2024","Sun Aug 04 22:14:05 GMT 2024","0","","apiTest","","","","test_2",""
